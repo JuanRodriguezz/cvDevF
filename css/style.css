@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2{
+    padding: 15px;
+    background-color: #9b06e0;
+    color: #eee;
+}
+
+.skill{
+    list-style: none;
+    margin: 10px;
+}
+
+.name{
+    max-height: 300px;
+    max-width: 250px;
+}
+
+.image-profile{
+    border-radius: 50%;
+    margin: 10px;
+}
